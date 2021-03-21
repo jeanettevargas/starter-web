@@ -4,11 +4,18 @@ This repository is for showing how Git and GitHub work
 
 ##Introduction
 
+Sample
 
 ## Purpose
 
 Sample website with plenty of files for demos
 
+##Deplyment
+
+Sample
+
 ##How to Contribute
+
+Sample
 
 
