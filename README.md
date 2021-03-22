@@ -16,5 +16,7 @@ This is a simple web project, deployment can be on any web server or evem local 
 
 ## How to Contribute
 
-Sample
+### Copyright
+
+2014 Git.Training.
 
